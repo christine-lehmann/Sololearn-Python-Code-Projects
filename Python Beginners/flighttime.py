@@ -1,4 +1,6 @@
-'''Flight Time
+'''
+
+Flight Time
 
 You need to calculate the flight time of an upcoming trip. 
 You are flying from LA to Sydney, covering a distance of 7425 miles, 
